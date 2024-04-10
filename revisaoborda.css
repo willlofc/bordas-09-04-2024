@@ -1,0 +1,16 @@
+.borda
+{
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 10px;
+    width: 100px;
+    background-color: darkgrey;
+}
+.caixa
+{
+    height: 100px;
+    width: 300px;
+    background-color: grey;
+    border: 3px solid red;
+    border-radius: 10px;
+}
